@@ -108,6 +108,6 @@ Integrate with SMS/Email APIs for notifications
 Improve UI using Tkinter or PyQt
 
 🧑‍💻 Author
-Developed by: Danish Khan
+Developed by: Deepanshi Patil
 
 Feel free to contribute or raise issues!
